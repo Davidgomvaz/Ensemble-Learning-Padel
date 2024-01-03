@@ -1,4 +1,4 @@
 # Ensemble Learning Padel
-Algoritmos de ensamble de clasificadores para la clasificación del tipo de golpe de pádel realizado y nivel del jugador. Entre los algoritmos utilizados se encuentra: árbol de decisión, k vecinos más próximos, máquina de vector soporte, perceptrón multicapa, clasificador por votación, bagging, pasting, adaboost, random forest, extremely randomized trees y gradient boosting. Autores: David Gómez, Daniel Gutiérrez.
+Ensemble learnin algorithms used for both paddle shots and skill levels classification. Among the algorithms used are: decision tree, k nearest neighbours, support vector machine, multilayer perceptron, voting classifier, bagging, pasting, adaboost, random forest, extremely randomised trees and gradient boosting. Authors: David Gómez, Daniel Gutiérrez.
 
-La información acerca del dataset utilizado, así como el dispositivo empleado para la recogida de datos puede verse en https://github.com/Dany503/Padel
+Information about the dataset used, as well as the device used for data collection can be found at https://github.com/Dany503/Padel
